@@ -3,7 +3,7 @@ function Bellow({ value }) {
       <div>
         {value.map((obj) => {
           return (
-            <details>
+            <details key={crypto.randomUUID()}>
               <summary>{obj.title}</summary>
               <p>{obj.description}</p>
             </details>
