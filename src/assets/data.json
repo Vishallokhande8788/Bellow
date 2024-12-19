@@ -1,27 +1,27 @@
 [
-    {
-      "id": 1,
-      "title": "Coke vs Pepsi",
-      "description": "Pepsi is better than Coke"
-    },
-    {
-      "id": 2,
-      "title": "Samsung vs Apple",
-      "description": "Apple is better than Samsung"
-    },
-    {
-      "id": 3,
-      "title": "Google vs Facebook",
-      "description": "Facebook is better than Google"
-    },
-    {
-      "id": 4,
-      "title": "React Native vs Flutter",
-      "description": "Flutter is better than React Native"
-    },
-    {
-      "id": 5,
-      "title": "Django vs Express",
-      "description": "Express is better than Django"
-    }
-  ]
+  {
+    "id": 1,
+    "title": "Coke vs Pepsi",
+    "description": "Coke is less sweet with a more acidic taste, while Pepsi is sweeter and smoother"
+  },
+  {
+    "id": 2,
+    "title": "Samsung vs Apple",
+    "description": "Samsung offers more variety and innovation, while Apple provides a seamless, premium user experience"
+  },
+  {
+    "id": 3,
+    "title": "Google vs Facebook",
+    "description": "Google is a search engine and tech giant with a focus on information, while Facebook (now Meta) is a social media platform focused on connectivity and social interaction"
+  },
+  {
+    "id": 4,
+    "title": "React Native vs Flutter",
+    "description":"React Native offers faster development with a large community, while Flutter provides a more consistent UI and better performance across platforms."
+  },
+  {
+    "id": 5,
+    "title": "Django vs Express",
+    "description": "Django is a high-level Python web framework for rapid development, while Express is a minimal and flexible Node.js framework for building web applications"
+  }
+]

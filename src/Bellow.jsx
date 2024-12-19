@@ -5,7 +5,7 @@ function Bellow({ value }) {
           return (
             <details
               key={crypto.randomUUID()}
-              className="bg-zinc-200 rounded p-3 "
+              className="bg-lime-400 rounded p-3 "
             >
               <summary className="cursor-pointer">{obj.title}</summary>
               <p>{obj.description}</p>
