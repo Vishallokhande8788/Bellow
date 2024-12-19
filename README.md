@@ -1,18 +1,23 @@
 # Bellow
 
-beloo is a project same as accordian
 
-## Installation
+Bellow is a simple, accordion-like project that allows users to expand and collapse content sections interactively.
+
+## vite installation
 
 ```sh
-npm install bellow
+pnpm createvite@latest .
 ```
 
-## Usage
+## Technologies
 
-```js
-import Bellow from 'bellow'
+- React
+- Vite
+- javascript 
+- Tailwind
 
-const bellow = new Bellow({
-  // options
-})
+## Features
+
+- Accordion
+- Collapse
+
