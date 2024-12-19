@@ -6,7 +6,7 @@ Bellow is a simple, accordion-like project that allows users to expand and colla
 ## vite installation
 
 ```sh
-pnpm createvite@latest .
+pnpm create vite@latest .
 ```
 
 ## Technologies
